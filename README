@@ -5,4 +5,7 @@ p --> Seite
 " --> Sprechblase
 * --> GFX
 + --> TL Notes (inkl. Beschriftungen)
+# --> TL Kommentar
 }
+
+
