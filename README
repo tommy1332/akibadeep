@@ -1,0 +1,8 @@
+Syntax: Jede Zeile beginnt mit einem Präfix aus P.
+
+P:={
+p --> Seite
+" --> Sprechblase
+* --> GFX
++ --> TL Notes (inkl. Beschriftungen)
+}
