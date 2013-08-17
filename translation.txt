@@ -1,0 +1,28 @@
+p contents
+" Process:01 Die @-Legende beginnt !!(sic)
+" Auf zur Seefahrt!
+" Geheimwaffe !?
+" Illusionen MAX
+" mansee
+
+p 003
+" Heute kam ich wieder zum Leben
+" Der Zauberspruch meiner Wiederbelebung wurde aufgesagt
+
+p 004
+" Die legendären Otakus (Siehe Duden $280 Z2)
+" Die @-Legende beginnt !!
+
+p 006
+* katsu katsu
+* katsu
++ Lebenslauf
++ SHIMA Kouji
++ Geburtsdatum 7.9.1986
+" Allerdings...
+
+" Du hast keine besonderen Fähigkeiten,
+# 趣味　しゅみ, 味　あじ
+" keine Interessen,
+" und keine Qualifikationen?
+" Unterschätzt du einen Konbini nicht? 
